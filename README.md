@@ -1,5 +1,7 @@
-# Preserve Itacimirim
-Repositório dedicado ao armazenamento de análises e trabalhos feitos relacionados ao Coletivo Preserve Itacimirim
+# Coletivo Preserve Itacimirim    
+
+![393280774_1047674116251748_435565203573863534_n](https://github.com/murillocosta/preserve-itacimirim/assets/91096652/cfcde588-08bf-43c3-997b-49be2dbb28de)
+
 
 
 # O coletivo
