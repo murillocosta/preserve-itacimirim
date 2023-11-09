@@ -7,7 +7,7 @@
 # O coletivo
 
 O Coletivo Preserve Itacimirim, surgiu em setembro de 2020, quando moradores se uniram para realizar um mutirão de limpeza na Praia do Surf. Motivado pela sujeira crescente na praia,
- piorada com o aumento de moradores durante a pandemia, Alexandre Gennari Torres (Engenheiro Ambiental - morador desde 1992/frequentador desde 1983) através de uma rede social @itacimirimsurfe, filmou e fotografou o lixo de suas coletas individuais, desta forma gerando um diálogo que mobilizou cerca de 10 pessoas para realizar o primeiro mutirão de limpeza coletiva ocorrida no dia 10 de outubro de 2020.
+ piorada com o aumento de moradores durante a pandemia, Alexandre Gennari Torres (Engenheiro Ambiental - morador desde 1992/frequentador desde 1983) através de uma rede social [@itacimirimsurfe](https://www.instagram.com/coletivo_preserve_itacimirim/), filmou e fotografou o lixo de suas coletas individuais, desta forma gerando um diálogo que mobilizou cerca de 10 pessoas para realizar o primeiro mutirão de limpeza coletiva ocorrida no dia 10 de outubro de 2020.
 
 ## Quem somos?
 Somos um grupo voltado para ações socio-ambientais, de caráter comunitário e sem fins lucrativos. 
